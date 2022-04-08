@@ -1,10 +1,11 @@
 # Jennifer Arceo 👋
-
-<img src="images/0e798f91138755ce7386df586f6feb3b.gif" alt="desk with cat">
+<p align="center">
+  <img src="images/0e798f91138755ce7386df586f6feb3b.gif" alt="desk with cat">
+</p>
 
 I'm Jennifer Arceo, an aspiring software developer in New York.
 
-## What I'm Working On
+## 💻 What I'm Working On
 [Personal Website](jenniferarceo.github.io) 
 
 - 🔭 I’m currently working on ...
