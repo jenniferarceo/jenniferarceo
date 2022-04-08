@@ -1,27 +1,17 @@
-# Jennifer Arceo
+# Jennifer Arceo (she/her)
 <p align="center">
   <img src="images/0e798f91138755ce7386df586f6feb3b.gif" alt="desk with cat">
 </p>
 
-I'm Jennifer Arceo, a Computer Science student at Queens College aspiring to be a software developer.
+Hi I'm Jennifer Arceo, an aspiring software developer in New York. I'm currently an undergraduate student at Queens College and am interested in developing software applications as well as doing research in robotics.
 
-## 💻 What I'm Working On
+## 💻 Projects
 [Personal Website](jenniferarceo.github.io) 
 
-## Skills
+## ⚡ Skills
 * Java
 * Python
 * C++
 
 ## Contact Info
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
