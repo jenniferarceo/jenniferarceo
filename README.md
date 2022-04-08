@@ -1,5 +1,6 @@
 # Jennifer Arceo 👋
 
+<img src="images/workspace.gif" alt="desk with cat">
 
 <!--
 **jenniferarceo/jenniferarceo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
