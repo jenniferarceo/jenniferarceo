@@ -2,10 +2,10 @@
 
 <img src="images/0e798f91138755ce7386df586f6feb3b.gif" alt="desk with cat">
 
-<!--
-**jenniferarceo/jenniferarceo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jennifer Arceo, an aspiring software developer in New York.
 
-Here are some ideas to get you started:
+## What I'm Working On
+[Personal Website](jenniferarceo.github.io) 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
